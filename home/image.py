@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 
 color = (255,255,255)
-position = (0,0)
+position = (10,0)
 
 # CREATING CANVAS
 canvas = pygame.display.set_mode((500,500))
