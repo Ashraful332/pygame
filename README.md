@@ -9,3 +9,9 @@ Install packeg
 
 To of the venv
 - deactivate
+
+to see all install packages
+- pip list
+
+to create requirement.txt
+- pip freeze > requirements.txt
